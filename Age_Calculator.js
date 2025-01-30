@@ -1,4 +1,3 @@
-// Create the container element
 const container = document.createElement('div');
 container.style.cssText = `
     background: #fff;
